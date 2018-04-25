@@ -1,5 +1,5 @@
 # I am adding a comment!
-N <- 8
+N <- 12
 census <- read.csv('us_census.csv')
 #contiguous <- census
 contiguous <- census[!census$state %in% c('AK', 'HI', 'PR'),]
