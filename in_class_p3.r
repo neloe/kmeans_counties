@@ -1,3 +1,4 @@
+# I am adding a comment!
 N <- 8
 census <- read.csv('us_census.csv')
 #contiguous <- census
